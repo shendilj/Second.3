@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+.Start{
+  margin-top :2%;
+  margin-left:10%;
+  width: 70%;
+}
+
+.acc-header{
+  background: rgb(255, 255, 255);
+  cursor: pointer; 
+  padding: 10px;
+  width: 41.4%;
+  margin-left: 30%;
+  border: 1px solid rgb(211, 211, 211);
+  border-radius: 2px;
+  text-align: left;
+  font-size: 13px;
+  transition: all .30s linear;
+}
+
+.textt{
+  color: black;
+  font-weight: 500;
+  font-display: swap;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+}
+
+.tittle{
+  color: rgb(163, 163, 163);
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  display:swap;
+}
+
+.uppeer{
+  float: right;
+  color: black;
+}
+
+.Topheader{
+  display: inline-flex;
+  background: white;
+  cursor: pointer;
+  padding: 14px;
+  width: 40%;
+  border: 2px solid rgb(211, 211, 211);
+  border-radius: 4px;
+  text-align: center;
+  font-size: 15px;
+  transition: all .30s linear;
+  margin-top: 10%;
+  margin-left: 30%;
+  
+
+}
+.informations .text{
+  margin: 0;
+}
+
+.informations{
+  margin-right: 100px;
+  padding-left: 25px;
+  display: block;
+  text-align: left;
+}
+
+.icon{
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  margin-top:5px;
+}
+
+.firsthook{
+  width: 20%;
+  text-align: end;
+}
+
+.informations .detail{
+  font-size: 14px;
+  color: rgb(187, 187, 187);
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  display: swap;
+}
